@@ -1,0 +1,15 @@
+C:\Users\vcebr\OneDrive\Desktop\Task_Linq\task9\task9\bin\Debug\net6.0\task9.exe
+C:\Users\vcebr\OneDrive\Desktop\Task_Linq\task9\task9\bin\Debug\net6.0\task9.deps.json
+C:\Users\vcebr\OneDrive\Desktop\Task_Linq\task9\task9\bin\Debug\net6.0\task9.runtimeconfig.json
+C:\Users\vcebr\OneDrive\Desktop\Task_Linq\task9\task9\bin\Debug\net6.0\task9.dll
+C:\Users\vcebr\OneDrive\Desktop\Task_Linq\task9\task9\bin\Debug\net6.0\task9.pdb
+C:\Users\vcebr\OneDrive\Desktop\Task_Linq\task9\task9\obj\Debug\net6.0\task9.csproj.AssemblyReference.cache
+C:\Users\vcebr\OneDrive\Desktop\Task_Linq\task9\task9\obj\Debug\net6.0\task9.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vcebr\OneDrive\Desktop\Task_Linq\task9\task9\obj\Debug\net6.0\task9.AssemblyInfoInputs.cache
+C:\Users\vcebr\OneDrive\Desktop\Task_Linq\task9\task9\obj\Debug\net6.0\task9.AssemblyInfo.cs
+C:\Users\vcebr\OneDrive\Desktop\Task_Linq\task9\task9\obj\Debug\net6.0\task9.csproj.CoreCompileInputs.cache
+C:\Users\vcebr\OneDrive\Desktop\Task_Linq\task9\task9\obj\Debug\net6.0\task9.dll
+C:\Users\vcebr\OneDrive\Desktop\Task_Linq\task9\task9\obj\Debug\net6.0\refint\task9.dll
+C:\Users\vcebr\OneDrive\Desktop\Task_Linq\task9\task9\obj\Debug\net6.0\task9.pdb
+C:\Users\vcebr\OneDrive\Desktop\Task_Linq\task9\task9\obj\Debug\net6.0\task9.genruntimeconfig.cache
+C:\Users\vcebr\OneDrive\Desktop\Task_Linq\task9\task9\obj\Debug\net6.0\ref\task9.dll
